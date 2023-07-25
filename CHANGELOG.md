@@ -2,6 +2,84 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.0.19](https://github.com/macite/doubtfire-deploy/compare/v7.0.18...v7.0.19) (2023-06-20)
+
+
+### Bug Fixes
+
+* auto gen portfolio checks stats and refactor ([92ba764](https://github.com/macite/doubtfire-deploy/commit/92ba764d0f2a6527582042d6181d2a166b1582da))
+* ensure campus valid on import ([5ef73ba](https://github.com/macite/doubtfire-deploy/commit/5ef73baa752bc95330b21bc232d234ee8f59b0d0))
+* ensure unit dates can be edited independently ([2a3d3c1](https://github.com/macite/doubtfire-deploy/commit/2a3d3c193df12ac7f17e86b3ad2d16af27264fae))
+* rollover with portfolio creation date ([2b1352f](https://github.com/macite/doubtfire-deploy/commit/2b1352f25554d79b6feb74159fec0763d15310ca))
+
+### [7.0.18](https://github.com/macite/doubtfire-deploy/compare/v7.0.17...v7.0.18) (2023-06-18)
+
+### [7.0.17](https://github.com/macite/doubtfire-deploy/compare/v7.0.16...v7.0.17) (2023-06-17)
+
+
+### Bug Fixes
+
+* ensure unit creation can set convenor ([b6d85ef](https://github.com/macite/doubtfire-deploy/commit/b6d85efa79e3545096d74d8503b0fb95af8232f8))
+
+### [7.0.16](https://github.com/macite/doubtfire-deploy/compare/v7.0.15...v7.0.16) (2023-06-03)
+
+
+### Bug Fixes
+
+* ensure page count work on pdfs with errors ([57b01b3](https://github.com/macite/doubtfire-deploy/commit/57b01b37da246173fb0eccda77c9698692807b60))
+* exclude pax on retry of portfolio creation ([bc75712](https://github.com/macite/doubtfire-deploy/commit/bc7571223928531bd252bc5cb7be9f4827aa64e2))
+* portfolio creation in resouce contention test ([5cdb1e2](https://github.com/macite/doubtfire-deploy/commit/5cdb1e2b1031614c9a02e11d24e05546e988ba70))
+
+### [7.0.15](https://github.com/macite/doubtfire-deploy/compare/v7.0.14...v7.0.15) (2023-06-03)
+
+
+### Features
+
+* add script to generate missing portfolios ([375975f](https://github.com/macite/doubtfire-deploy/commit/375975f46d7ebb8d29c6a62b01cc3e90820e4b04))
+
+
+### Bug Fixes
+
+* compress pdf file exists ([8091965](https://github.com/macite/doubtfire-deploy/commit/80919655415890a260c4e95060d20a8dcc686d77))
+* create missing portfolios ([85b965f](https://github.com/macite/doubtfire-deploy/commit/85b965ffd3941aeaf8650ce19098a7b2f5e9649f))
+
+### [7.0.14](https://github.com/macite/doubtfire-deploy/compare/v7.0.13...v7.0.14) (2023-06-01)
+
+
+### Bug Fixes
+
+* use qpdf for page count ([220e897](https://github.com/macite/doubtfire-deploy/commit/220e897a3d1144ef97e63b2292f011cfb126a01b))
+
+### [7.0.12](https://github.com/macite/doubtfire-deploy/compare/v7.0.11...v7.0.12) (2023-06-01)
+
+
+### Bug Fixes
+
+* improve handling of pdf pages ([a79dc81](https://github.com/macite/doubtfire-deploy/commit/a79dc81865737658985bd045585623245d806459))
+* switch pdf compression to qpdf ([30a401f](https://github.com/macite/doubtfire-deploy/commit/30a401f649444e6d873612aa55919a7e7a173471))
+* use qpdf for page count ([220e897](https://github.com/macite/doubtfire-deploy/commit/220e897a3d1144ef97e63b2292f011cfb126a01b))
+
+### [7.0.13](https://github.com/macite/doubtfire-deploy/compare/v7.0.12...v7.0.13) (2023-05-31)
+
+
+### Bug Fixes
+
+* switch pdf compression to qpdf ([30a401f](https://github.com/macite/doubtfire-deploy/commit/30a401f649444e6d873612aa55919a7e7a173471))
+
+### [7.0.12](https://github.com/macite/doubtfire-deploy/compare/v7.0.11...v7.0.12) (2023-05-30)
+
+
+### Bug Fixes
+
+* improve handling of pdf pages ([a79dc81](https://github.com/macite/doubtfire-deploy/commit/a79dc81865737658985bd045585623245d806459))
+
+### [7.0.11](https://github.com/macite/doubtfire-deploy/compare/v7.0.10...v7.0.11) (2023-05-24)
+
+
+### Bug Fixes
+
+* portfolio creation with additional code files ([e1e4da2](https://github.com/macite/doubtfire-deploy/commit/e1e4da259fd9b8fa845c9e8781989592ed082efe))
+
 ### [7.0.10](https://github.com/macite/doubtfire-deploy/compare/v7.0.9...v7.0.10) (2023-05-05)
 
 
